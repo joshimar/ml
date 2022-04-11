@@ -1,2 +1,2 @@
-# Luis's Machine learning projects
+# Luis' Machine learning projects
 1. Benford's Law
